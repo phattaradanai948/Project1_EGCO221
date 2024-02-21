@@ -1,4 +1,4 @@
-package Project1;
+package Project1_EGCO221;
 import java.util.*;
 import java.io.*;
 import java.util.ArrayList;

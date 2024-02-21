@@ -1,9 +1,9 @@
-package Project1;
+package Project1_EGCO221;
 import java.util.*;
 import java.io.*;
 
 //maize_3.txt
-
+//Test test phat write
 public class Project_1{
     public static void main(String[] args) {
         //Set var
